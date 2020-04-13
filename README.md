@@ -1,4 +1,4 @@
 # less
 
-![](pics/screeen.png)
-![](pics/screeen2.png)
+![](pics/screeen.jpg)
+![](pics/screeen2.jpg)
